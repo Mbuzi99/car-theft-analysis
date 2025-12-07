@@ -1,19 +1,19 @@
-# 🚗 Vehicle Theft Analysis — SQL Dashboard Project
+Vehicle Theft Analysis — SQL Dashboard Project
 
 This project explores vehicle theft patterns using SQL for data cleaning, transformation, and analysis.  
 It includes a visual dashboard that highlights key trends such as theft frequency by vehicle type, region, year, and color.
 
 
 
-## 📊 Dashboard Preview
+Dashboard Preview
 
-> After uploading your screenshot to GitHub, replace the image path below.
 
-![Vehicle Theft Dashboard](docs/dashboard.png)
+
+![Vehicle Theft Dashboard](https://github.com/Mbuzi99/car-theft-analysis/blob/main/PowerBi/Screenshot%20(182).png)
 
 ---
 
-## 🎯 Project Objectives
+Project Objectives
 
 - Clean and prepare the dataset using SQL  
 - Analyze thefts by:
@@ -26,7 +26,7 @@ It includes a visual dashboard that highlights key trends such as theft frequenc
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - **SQL Server** — data cleaning & analysis  
 - **Excel / CSV** — dataset structure  
@@ -34,7 +34,7 @@ It includes a visual dashboard that highlights key trends such as theft frequenc
 
 ---
 
-## 🧹 SQL Data Cleaning & Processing
+SQL Data Cleaning & Processing
 
 The SQL workflow includes:
 
@@ -50,10 +50,9 @@ The SQL workflow includes:
 
 All SQL queries are included in:
 
-
 ---
 
-## 📈 Key Insights
+Key Insights
 
 - Stationwagons, saloons, and hatchbacks were the most stolen vehicles  
 - Auckland reported the highest number of thefts  
@@ -63,9 +62,8 @@ All SQL queries are included in:
 ---
 
 
----
 
-## 🚀 How to Use This Project
+How to Use This Project
 
 1. Run the SQL script in **SQL Server**  
 2. Export cleaned or aggregated results (optional)  
@@ -75,16 +73,7 @@ All SQL queries are included in:
 
 ---
 
-## 🧩 Future Improvements
-
-- Add geospatial theft mapping  
-- Create predictive models  
-- Automate ETL and refresh processes  
-- Add more years or regions to the dataset  
-
----
-
-## 🙌 About the Project
+About the Project
 
 This project demonstrates practical SQL skills, real-world data cleaning, and dashboard development.
 
